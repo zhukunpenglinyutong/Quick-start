@@ -1,0 +1,22 @@
+{
+  "name": "adam",
+  "version": "1.0.0",
+  "description": "造轮子一直都是前端开发中绕不过去的槛，作为初学者倒是不用想太多，自己私底下一定要造，你造轮子写的每一行代码都会化成你的底蕴。",
+  "main": "base.js",
+  "scripts": {
+    "test": "npx jest --coverage"
+  },
+  "jest": {
+    "testRegex": "/test/.*.test.jsx?$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.imweb.io/zhukunpeng/adam.git"
+  },
+  "keywords": [],
+  "author": "zhukunpenglinyutong",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
