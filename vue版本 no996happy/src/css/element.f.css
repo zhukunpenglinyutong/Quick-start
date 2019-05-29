@@ -1,0 +1,4 @@
+/* main.vue 页面 每项的间距 */
+.box-card .el-card__body {
+  padding: 0 !important;
+}
